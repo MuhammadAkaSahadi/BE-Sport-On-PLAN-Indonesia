@@ -47,3 +47,4 @@ Ini adalah tutorial setup backend dengan tech stack Express & MongoDB
     "build": "tsc",
     "start": "node dist/server.js"
     }
+11. Sebelum di push ke github, jangan lupa buat file ".gitignore"
